@@ -18,8 +18,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/sa-Samir/weather_app.git
+   cd weather_app
 
 2. Install dependencies:
     ```bash
